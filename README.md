@@ -3,18 +3,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🔭 &nbsp; I’m currently looking for a job as a Frontend developer.
+- 🎓 &nbsp; Studying and improving my skills with Nuxt and NodeJs as backend.
+- 💼 &nbsp; Front-end web developer. Brackend developer.
+- 🌱 &nbsp; Enthusiast in data science and modern design.
+- 🎸 &nbsp; Play video games, watch technology videos and improve my English
+- ☕ &nbsp; Coffee smell lover.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript | NodeJs
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwindcss 
+- 🌐 &nbsp; HTML | CSS | JavaScript | VueJs | Nuxt | Bootstrap | Tailwindcss 
 - 🛢 &nbsp; Firebase
 - 🔧 &nbsp; Visual Studio Code | Github | Git | Docker | Slack
 - 🖥 &nbsp; Figma | Photoshop
@@ -25,7 +24,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaabg6&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaabg6&layout=compact&count_private=true&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
