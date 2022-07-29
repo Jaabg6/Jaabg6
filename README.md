@@ -1,4 +1,4 @@
-<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hi im Javier. <img src="[https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif](https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif)" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -13,11 +13,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 💻 &nbsp; Javascript | NodeJs
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwindcss 
+- 🛢 &nbsp; Firebase
+- 🔧 &nbsp; Visual Studio Code | Github | Git | Docker | Slack
+- 🖥 &nbsp; Figma | Photoshop
 
 <br>
 
