@@ -36,4 +36,4 @@
 &nbsp; <a href="https://www.linkedin.com/in/javier-arcila-243221237/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 </p>
 
-⭐️ From [devSouvik](https://github.com/devSouvik)
+⭐️ From [Javier Arcila](https://github.com/Jaabg6)
