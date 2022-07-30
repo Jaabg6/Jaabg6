@@ -1,5 +1,7 @@
 <h2> Hi im Javier. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://i.imgur.com/qe44z3T.gif" width="200"/>
+<img align="right" alt="GIF" src="https://static.wixstatic.com/media/e2654e_73fdbd00a76f41948416260d1f9d97fa~mv2.gif" width="200"/>
+
 
 
 <h3> 👨🏻‍💻 About Me </h3>
