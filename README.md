@@ -1,8 +1,6 @@
 <h2> Hi im Javier. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
 
 
-
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently looking for a job as a Frontend developer.
@@ -16,7 +14,7 @@
 
 - 💻 &nbsp; Javascript | NodeJs
 - 🌐 &nbsp; HTML | CSS | JavaScript | VueJs | Nuxt | Bootstrap | Tailwindcss 
-- 🛢 &nbsp; Firebase
+- 🛢 &nbsp; Firebase, MongoDB , MySQL
 - 🔧 &nbsp; Visual Studio Code | Github | Git | Docker | Slack
 - 🖥 &nbsp; Figma | Photoshop
 
