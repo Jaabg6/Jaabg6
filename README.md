@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently looking for a job as a Frontend developer.
 - 🎓 &nbsp; Studying and improving my skills with Nuxt and NodeJs as backend.
-- 💼 &nbsp; Front-end web developer. Brackend developer.
+- 💼 &nbsp; Front-end web developer. Backend developer.
 - 🌱 &nbsp; Enthusiast in data science and modern design.
 - 🎸 &nbsp; Play video games, watch technology videos and improve my English
 - ☕ &nbsp; Coffee smell lover.
