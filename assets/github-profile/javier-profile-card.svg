@@ -1,0 +1,51 @@
+<svg width="860" height="260" viewBox="0 0 860 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Javier Arcila profile widget</title>
+  <desc id="desc">Profile summary for Javier Arcila with focus on Python, AI integration, automation, backend, and frontend delivery.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="860" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="95" y1="48" x2="765" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="0.5" stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <style>
+      .title { fill: #F8FAFC; font: 700 28px 'Segoe UI', Arial, sans-serif; }
+      .subtitle { fill: #CBD5E1; font: 400 14px 'Segoe UI', Arial, sans-serif; }
+      .label { fill: #E2E8F0; font: 600 13px 'Segoe UI', Arial, sans-serif; }
+      .copy { fill: #94A3B8; font: 400 13px 'Segoe UI', Arial, sans-serif; }
+      .chip { fill: #0B1220; stroke: #243041; }
+      .chip-text { fill: #E5E7EB; font: 600 12px 'Segoe UI', Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="858" height="258" rx="22" fill="url(#bg)" stroke="#1F2937"/>
+  <rect x="32" y="32" width="796" height="4" rx="2" fill="url(#accent)"/>
+
+  <text x="36" y="78" class="title">Javier Arcila</text>
+  <text x="36" y="105" class="subtitle">CEO at ArticTech EIRL · Royal Systems SAC · Builder focused on business impact</text>
+
+  <text x="36" y="145" class="label">Current direction</text>
+  <text x="36" y="168" class="copy">Building software that connects operations, AI, automation, and product execution.</text>
+  <text x="36" y="189" class="copy">Python leads my current workflow, while frontend remains part of my delivery toolkit.</text>
+
+  <rect x="36" y="210" width="92" height="30" rx="15" class="chip"/>
+  <text x="82" y="229" text-anchor="middle" class="chip-text">Python</text>
+
+  <rect x="138" y="210" width="118" height="30" rx="15" class="chip"/>
+  <text x="197" y="229" text-anchor="middle" class="chip-text">AI Integration</text>
+
+  <rect x="266" y="210" width="112" height="30" rx="15" class="chip"/>
+  <text x="322" y="229" text-anchor="middle" class="chip-text">Automation</text>
+
+  <rect x="388" y="210" width="92" height="30" rx="15" class="chip"/>
+  <text x="434" y="229" text-anchor="middle" class="chip-text">Backend</text>
+
+  <rect x="490" y="210" width="114" height="30" rx="15" class="chip"/>
+  <text x="547" y="229" text-anchor="middle" class="chip-text">Vue / Nuxt</text>
+
+  <rect x="614" y="210" width="110" height="30" rx="15" class="chip"/>
+  <text x="669" y="229" text-anchor="middle" class="chip-text">Product Ops</text>
+</svg>
